@@ -1,10 +1,10 @@
-## Hi there 👋, I'm Amit Chaudhary! 
+## Hi there , I'm Amit Chaudhary! 
 
 I am a passionate **Full-Stack Web Developer** specializing in building modern, scalable, and high-performance web applications. I love turning complex problems into intuitive, user-friendly digital experiences.
 
 ---
 
-### 🚀 Tech Stack & Tools
+###  Tech Stack & Tools
 
 * **Frontend:** JavaScript (ES6+), TypeScript, React.js, Next.js, HTML5, CSS3
 * **Styling & UI:** Tailwind CSS, Bootstrap, Material-UI, AOS (Animate On Scroll)
@@ -14,16 +14,16 @@ I am a passionate **Full-Stack Web Developer** specializing in building modern, 
 
 ---
 
-### 💻 What I'm Up To
+###  What I'm Up To
 
-* 🔭 I’m currently building full-stack web applications using the **MERN stack and Next.js**.
-* 🌱 I’m currently deepening my knowledge in advanced **Next.js server actions and TypeScript**.
-* 💬 Ask me about **React, Tailwind CSS, or building RESTful APIs with Node and Express**.
-* 📫 How to reach me: [ac984939@gmail.com]
+*  I’m currently building full-stack web applications using the **MERN stack and Next.js**.
+*  I’m currently deepening my knowledge in advanced **Next.js server actions and TypeScript**.
+*  Ask me about **React, Tailwind CSS, or building RESTful APIs with Node and Express**.
+*  How to reach me: [ac984939@gmail.com]
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 
 
@@ -39,4 +39,4 @@ I am a passionate **Full-Stack Web Developer** specializing in building modern, 
 
 ---
 
-⭐ *Feel free to check out my pinned repositories below to see my work in action!*
+ *Feel free to check out my pinned repositories below to see my work in action!*
