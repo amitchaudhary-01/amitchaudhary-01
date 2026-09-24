@@ -9,7 +9,7 @@ I am a passionate **Full-Stack Web Developer** specializing in building modern, 
 * **Frontend:** JavaScript (ES6+), TypeScript, React.js, Next.js, HTML5, CSS3
 * **Styling & UI:** Tailwind CSS, Bootstrap, Material-UI, AOS (Animate On Scroll),Framer motion
 * **Backend:** Node.js, Express.js
-* **Databases:** MongoDB, Mongoose (familiar)
+* **Databases:** MongoDB, Mongoose , postgresql (familiar)
 * **Tools & Version Control:** Git, GitHub, Postman, VS Code, Vercel, Render
 
 ---
