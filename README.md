@@ -1,4 +1,4 @@
-## Hi there , I'm Amit Chaudhary ! 
+ ## Hi there , I'm Amit Chaudhary ! 
 
 I am a passionate **Full-Stack Web Developer** specializing in building modern, scalable, and high-performance web applications. I love turning complex problems into intuitive, user-friendly digital experiences.
 
